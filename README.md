@@ -1,4 +1,4 @@
-# 🎮 Detona Ralph (Whac-A-Mole Clone)
+# 🎮 Detona Ralph
 
 Um jogo simples no estilo **Acerte o Ralph**, baseado no personagem **Detona Ralph**, desenvolvido usando HTML, CSS e JavaScript puro.
 
